@@ -7,8 +7,8 @@ import (
 	"net/http"
 	"os"
 	"strings"
-	"github.com/koyachi/go-nude"
 	"encoding/json"
+	"github.com/sponges/GOAwayNSFW/nude"
 )
 
 type config struct {
